@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "667812591142",
+    "project_id": "fim-df4b5",
+    "storage_bucket": "fim-df4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667812591142:android:d9be1a3f1b17576ca398e7",
+        "android_client_info": {
+          "package_name": "com.example.finegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667812591142-fq4bc71b72r2a6s3d3lfhen1udscal33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finegram",
+            "certificate_hash": "6e085bee38ec80ee084943203c02a695c7c43e24"
+          }
+        },
+        {
+          "client_id": "667812591142-kpksm8dkbadk8n8t54q8idhg7vv45kel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLfN2ZZtu080fb7t-Xaw0mSMsMygP07U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667812591142-kpksm8dkbadk8n8t54q8idhg7vv45kel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
